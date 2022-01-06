@@ -28,6 +28,7 @@ public class PostoGasolina {
 		System.out.println("Alccol: " + contAlcool);
 		System.out.println("Gasolina: " + contGas);
 		System.out.println("Diesel: " + contDiesel);
+		
+		sc.close();
 	}
-
 }
